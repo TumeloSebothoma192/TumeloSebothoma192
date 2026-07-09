@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Tumelo Sebothoma
 
-<!--
-**TumeloSebothoma192/TumeloSebothoma192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building modern software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include:
+
+- 💻 Full Stack Development
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- 🧠 Machine Learning
+- ☁️ Cloud Computing
+- 🎮 VR & Simulation
+- ⚙️ Backend Engineering
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+- Java
+- Python
+- JavaScript
+- TypeScript
+- SQL
+- C#
+
+**Frontend**
+
+- React
+- Next.js
+- Tailwind CSS
+
+**Backend**
+
+- Node.js
+- Express
+- FastAPI
+- Spring Boot
+
+**Databases**
+
+- PostgreSQL
+- MongoDB
+- MySQL
+
+---
+
+## 🌟 Featured Projects
+
+- 🚀 Smart Data Insights Dashboard
+- 💰 DebtSense AI
+- 🌍 Marabastad Simulation
+- 🌐 Personal Portfolio
+- 🏫 Campus Service Management System
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
